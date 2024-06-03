@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "biologic:block/biotech_core"
+    "all": "biologic:block/biotech_frame"
   }
 }

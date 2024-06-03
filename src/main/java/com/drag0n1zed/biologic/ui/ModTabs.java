@@ -24,7 +24,7 @@ public class ModTabs {
             //Add your items to the tab.
             .displayItems((params, output) -> {
                 output.accept(ModItems.DNA.get());
-                output.accept(ModItems.BIOTECH_CORE.get());
+                output.accept(ModItems.BIOTECH_FRAME.get());
             })
             .build()
     );

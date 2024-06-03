@@ -1,6 +1,8 @@
 {
   "item.biologic.dna": "DNA",
+
   "block.biologic.biotech_core": "Biotech Core",
+  "block.biologic.biotech_frame": "Biotech Frame",
 
   "itemGroup.biologic.biologic": "BioLogic"
 }
