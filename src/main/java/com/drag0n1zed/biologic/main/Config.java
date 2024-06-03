@@ -1,4 +1,4 @@
-package com.drag0n1zed.biologic;
+package com.drag0n1zed.biologic.main;
 
 import java.util.List;
 import java.util.Set;
