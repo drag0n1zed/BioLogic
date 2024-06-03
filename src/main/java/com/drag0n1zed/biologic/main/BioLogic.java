@@ -1,5 +1,6 @@
 package com.drag0n1zed.biologic.main;
 
+import com.drag0n1zed.biologic.block.ModBlocks;
 import com.drag0n1zed.biologic.items.ModItems;
 import com.drag0n1zed.biologic.ui.ModTabs;
 import org.slf4j.Logger;
@@ -18,6 +19,7 @@ public class BioLogic {
 
     public BioLogic(IEventBus modEventBus, ModContainer modContainer) {
         ModItems.ITEMS.register(modEventBus);
+        ModBlocks.BLOCKS.register(modEventBus);
         ModTabs.CREATIVE_TABS.register(modEventBus);
     }
     /*

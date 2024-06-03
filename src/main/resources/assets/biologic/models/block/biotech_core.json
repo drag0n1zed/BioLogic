@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all", // all sides will have same texture
+  "textures": {
+    "all": "biologic:block/biotech_core"
+  }
+}
